@@ -38,10 +38,9 @@ challenge
 │   ├── server.test.js
 │   ├── mockData.js
 │   ├── package.json
-│   ├── package-lock.json
-│   └── README.md
-├── flow
-│   └── flow-csps.json
+│   ├── README.md
+│   └── flow
+│       └── flow-csps.json
 ```
 ## Documentação da API
 
